@@ -29,9 +29,9 @@ python3 run.py
 tensorboard --logdir ./logs
 ```
 
-- Play a game with an existing model (train your own or provide a `.keras` model file):
+- Play a game with an existing model (train your own first using `run.py`):
 ```shell
-python3 run_model.py your_model.keras
+python3 run_model.py best.keras
 ```
 
 
