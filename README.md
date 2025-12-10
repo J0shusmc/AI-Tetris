@@ -29,9 +29,9 @@ python3 run.py
 tensorboard --logdir ./logs
 ```
 
-- Play a game with an existing model (`best.keras` is a previously trained model that achieved more than 800k points, using 3 Relu layers with 32 neurons each):
+- Play a game with an existing model (train your own or provide a `.keras` model file):
 ```shell
-python3 run_model.py best.keras
+python3 run_model.py your_model.keras
 ```
 
 
