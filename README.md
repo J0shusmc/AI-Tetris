@@ -1,3 +1,5 @@
+![Tetris AI Screenshot](./Tetris%20AI_screenshot.png)
+
 # tetris-ai
 
 A bot that plays [Tetris](https://en.wikipedia.org/wiki/Tetris) using deep reinforcement learning.
