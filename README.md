@@ -4,13 +4,6 @@
 
 A bot that plays [Tetris](https://en.wikipedia.org/wiki/Tetris) using deep reinforcement learning.
 
-## Demo
-
-First 10000 points, after some training.
-
-![Demo - First 10000 points](./demo.gif)
-
-
 ## Requirements
 
 - Tensorflow/Jax/PyTorch
